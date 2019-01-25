@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
  <title>CIS 371 - Homework II.</title>
- <meta charset="UTF-8">
- <meta name="author" name="Anthony">
- <link rel="stylesheet" href="main.css">
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="author" content="Anthony"/>
+ <link rel="stylesheet" href="main.css"/>
 </head>
   <body> 
    <h1>Anthony Sciarini</h1>
    <img src="profile_pic.jpg" alt="profile_pic"  class="profile_img"/>
-   <p class = "reg">
+   <p class = "intro">
      I like to the exercise, code, read, and play the dark souls. In 
      my free time I enjoy spending time with my friends and family. When I am not in class
      studying computer science one of my favorite things todo is exercise to destress. My goto
@@ -131,8 +131,13 @@
 	  </td>
   </tr>
   </table>
-  </body>
   <div class="footer">
    <p class = "test">Run: <a href="SpecRunner.html">Jasmine Tests</a></p>
   </div>
+    <p>
+        <a href="http://validator.w3.org/check?uri=referer"><img
+	    src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" 
+	    height="31" width="88" /></a>
+    </p>
+  </body>
 </html>
